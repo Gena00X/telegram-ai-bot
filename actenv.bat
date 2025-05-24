@@ -1,0 +1,1 @@
+telegram-ai-bot-env\Scripts\activate.bat
